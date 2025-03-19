@@ -22,11 +22,10 @@ class CommentController extends Controller
 
         return response()->json(['success' => true]);
     }
-    public function showComments($page_id)
-    {
-        $comments = Comment::where('page_id', $page_id)->get();
-        return view($page_id, compact('comments', 'page_id'));
-    }
-    
-    
+public function showComments($page_id)
+{
+    $comments = Comment::where('page_id', $page_id)->get();
+    return view($page_id, compact('comments'));
+}
+
 }

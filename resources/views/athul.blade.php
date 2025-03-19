@@ -581,66 +581,11 @@
     <!--        </div>-->
     <!--    </div>-->
 
-        <!-- Comments -->
-    <!--    <section class="m-0 px-0 pb-0 pt-3" id="ucapan">-->
-    <!--        <div class="container">-->
+<!-- Comments -->
+<section>
+        @include('components.comment-box', ['page_id' => 'athul', 'comments' => $comments])
 
-    <!--            <div class="card-body border rounded-4 shadow p-3">-->
-    <!--                <h1 class="font-esthetic text-center mb-3" style="font-size: 3rem;">Greetings &amp; Prayers</h1>-->
-    <!--                <div class="mb-1" id="balasan"></div>-->
-
-    <!--                <div class="mb-3">-->
-    <!--                    <label for="form-name" class="form-label">Nama</label>-->
-    <!--                    <input type="text" class="form-control shadow-sm" id="form-name" placeholder="Isikan Nama Anda">-->
-    <!--                </div>-->
-
-    <!--                <div class="mb-3">-->
-    <!--                    <label for="form-presence" class="form-label" id="label-kehadiran">Kehadiran</label>-->
-    <!--                    <select class="form-select shadow-sm" id="form-presence">-->
-    <!--                        <option value="0" selected>Konfirmasi Kehadiran</option>-->
-    <!--                        <option value="1">Hadir</option>-->
-    <!--                        <option value="2">Berhalangan</option>-->
-    <!--                    </select>-->
-    <!--                </div>-->
-
-    <!--                <div class="mb-3">-->
-    <!--                    <label for="form-comment" class="form-label">Ucapan &amp; Doa</label>-->
-    <!--                    <div id="information" class="alert alert-info alert-dismissible fade show" role="alert">-->
-    <!--                        <p style="font-size: 1.5rem;">Bestieee!!!</p>-->
-    <!--                        <p class="m-0">Sekarang bisa format text seperti whatsapp lohh... cobainn sekaranggg, makaciwww bestieee</p>-->
-    <!--                        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close" onclick="util.close()"></button>-->
-    <!--                    </div>-->
-    <!--                    <textarea class="form-control shadow-sm" id="form-comment" rows="4" placeholder="Tulis Ucapan dan Doa"></textarea>-->
-    <!--                </div>-->
-
-    <!--                <div class="d-grid">-->
-    <!--                    <button class="btn btn-primary btn-sm rounded-3 shadow m-1" onclick="comment.send(this)">-->
-    <!--                        <i class="fa-solid fa-paper-plane me-1"></i>Send-->
-    <!--                    </button>-->
-    <!--                </div>-->
-    <!--            </div>-->
-
-    <!--            <div class="my-3 pt-3" id="comments"></div>-->
-
-    <!--            <nav class="d-flex justify-content-center mb-0 pt-2">-->
-    <!--                <ul class="pagination mb-0">-->
-    <!--                    <li class="page-item disabled" id="previous">-->
-    <!--                        <button class="page-link" onclick="pagination.previous(this)">-->
-    <!--                            <i class="fa-solid fa-circle-left me-1"></i>Previous-->
-    <!--                        </button>-->
-    <!--                    </li>-->
-    <!--                    <li class="page-item disabled">-->
-    <!--                        <span class="page-link text-light" id="page">1</span>-->
-    <!--                    </li>-->
-    <!--                    <li class="page-item" id="next">-->
-    <!--                        <button class="page-link" onclick="pagination.next(this)">-->
-    <!--                            Next<i class="fa-solid fa-circle-right ms-1"></i>-->
-    <!--                        </button>-->
-    <!--                    </li>-->
-    <!--                </ul>-->
-    <!--            </nav>-->
-    <!--        </div>-->
-    <!--    </section>-->
+</section>
 
         <!-- Wave Separator -->
     <!--    <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 1440 320" class="color-theme-black">-->
