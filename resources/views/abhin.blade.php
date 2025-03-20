@@ -9,14 +9,14 @@
 
     <!-- SEO Tag -->
     <meta property="og:title" content="Abhin & Dr.Prasobha Wedding">
-    <meta property="og:description" content="A joyous celebration of love as Abhin & Dr. Prasobha begin their new journey together!">
+    <meta property="og:description" content="A joyous celebration of love  Abhin & Dr. Prasobha begin their new journey together!">
     <meta property="og:image" content="https://res.cloudinary.com/dba0896zj/image/upload/v1742450565/bg_ijmtax.jpg">
     <meta property="og:url" content="https://7902-2409-40f3-112b-7dea-e5b9-3396-691d-c494.ngrok-free.app/abhin">
     <meta property="og:type" content="Wedding Invitation">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Abhin & Dr.Prasobha Wedding">
-    <meta name="twitter:description" content="A joyous celebration of love as Abhin & Dr. Prasobha begin their new journey together!">
+    <meta name="twitter:description" content="A joyous celebration of love  Abhin & Dr. Prasobha begin their new journey together!">
     <meta name="twitter:image" content="https://res.cloudinary.com/dba0896zj/image/upload/v1742450565/bg_ijmtax.jpg">
 
 
