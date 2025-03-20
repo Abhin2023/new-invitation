@@ -125,7 +125,7 @@
                 <h1 class="font-esthetic my-4" style="font-size: 3rem;">Abhin &amp; Dr.Prasobha</h1>
                 <p class="mb-0" style="font-size: 1.5rem;">Saturday, 3 May 2025</p>
 
-                <a class="btn btn-outline-light btn-sm shadow rounded-pill px-3 my-2" target="_blank" href="https://calendar.google.com/calendar/r/eventedit?text=Joel%20%26%20Jinu%20Wedding%20Ceremony&dates=20240824T040000Z/20240824T090000Z&details=Join%20us%20to%20celebrate%20our%20special%20day&location=Mount%20Carmel%20Forane%20Church">
+                <a class="btn btn-outline-light btn-sm shadow rounded-pill px-3 my-2" target="_blank" href="http://www.google.com/calendar/event?action=TEMPLATE&dates=20250503T043000Z%2F20250503T053000Z&text=Abhin%20%26%20Dr.Prasobha%20Wedding&location=https%3A%2F%2Fgoo.gl%2Fmaps%2FEKayfWrMTXJLTsya8&details=A%20joyous%20celebration%20of%20love%20as%20Abhin%20and%20Dr.%20Prasobha%20begin%20their%20new%20journey%20together!%20%E2%9D%A4%EF%B8%8F">
                     <i class="fa-solid fa-calendar-check me-2"></i>Save The Date
                 </a>
 
