@@ -8,24 +8,19 @@
     <title>Wedding Invitation</title>
 
     <!-- SEO Tag -->
-    <meta name="author" content="dewanakl">
-    <meta name="language" content="english">
-    <meta name="robots" content="index, follow, max-image-preview:large">
-    <meta name="googlebot" content="index, follow, max-image-preview:large">
-    <meta name="title" content="Wedding Invitation">
-    <meta name="description" content="Wedding Invitation">
-    <meta name="keywords" content="undangan, wedding, undangan digital, undangan online, wedding invitation, template undangan, template undangan pernikahan, undangan pernikahan, template undangan online, wedding invitation github, template website, template website undangan pernikahan">
-    <meta property="og:title" content="Wedding Invitation">
-    <meta property="og:description" content="Wedding Invitation">
-    <meta property="og:keywords" content="undangan, wedding, undangan digital, undangan online, wedding invitation, template undangan, template undangan pernikahan, undangan pernikahan, template undangan online, wedding invitation github, template website, template website undangan pernikahan">
-    <meta property="og:image" content="https://weddinginvitation.cards/assets/Joel-Jinu.jpeg">
-    <meta property="og:image:secure_url" content="https://weddinginvitation.cards/assets/Joel-Jinu.jpeg">
-    <meta property="og:image:type" content="image/png">
-    <meta property="og:image:alt" content="Wedding Invitation">
-    <meta property="og:type" content="website">
-    <meta property="og:locale" content="id_ID">
-    <meta property="og:url" content="https://weddinginvitation.cards/">
-    <meta property="og:site_name" content="Wedding Invitation">
+    <meta property="og:title" content="Athul & Harsha Wedding">
+    <meta property="og:description" content="Joyous celebration of the love story of Athul & Harsha.Join us on date and location">
+    <meta property="og:image" content="https://res.cloudinary.com/dba0896zj/image/upload/v1742452820/bg_uvsy8o.jpg">
+    <meta property="og:image:type" content="image/jpeg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:url" content="https://7902-2409-40f3-112b-7dea-e5b9-3396-691d-c494.ngrok-free.app/athul">
+    <meta property="og:type" content="Wedding Invitation">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Athul & Harsha Wedding">
+    <meta name="twitter:description" content="Joyous celebration of the love story of Athul & Harsha.Join us on date and location">
+    <meta name="twitter:image" content="https://res.cloudinary.com/dba0896zj/image/upload/v1742452820/bg_uvsy8o.jpg">
 
     <!-- Appearance -->
     <meta name="mobile-web-app-capable" content="yes">
