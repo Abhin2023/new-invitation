@@ -8,6 +8,7 @@ class CommentController extends Controller
 {
     public function store(Request $request)
     {
+
         $request->validate([
             'name' => 'required|string|max:255',
             'message' => 'required|string',
@@ -16,16 +17,16 @@ class CommentController extends Controller
 
         Comment::create([
             'name' => $request->name,
-            'message' => $request->message,
+            'comment' => $request->message,
             'page_id' => $request->page_id
         ]);
 
         return response()->json(['success' => true]);
     }
-public function showComments($page_id)
-{
-    $comments = Comment::where('page_id', $page_id)->get();
-    return view($page_id, compact('comments'));
-}
+        public function showComments($page_id)
+        {
+            $comments = Comment::where('page_id', $page_id)->get();
+            return view($page_id, compact('comments'));
+        }
 
 }

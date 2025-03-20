@@ -26,11 +26,19 @@
 
         <div class="my-3 pt-3" id="comments-{{ $page_id }}">
             @foreach ($comments as $comment)
-                <div class="comment-item border p-2 mb-2 rounded">
-                    <strong>{{ $comment->name }}</strong>: {{ $comment->message }}
+                <div class="d-flex align-items-start border p-3 mb-2 rounded">
+                    <!-- Avatar -->
+                    <img src="{{ asset('assets/images/pngegg.png') }}" alt="Avatar" class="rounded-circle me-3" width="40" height="40">
+
+                    <!-- Comment Content -->
+                    <div>
+                        <strong>{{ $comment->name }}</strong>
+                        <p class="mb-0">{{ $comment->comment }}</p>
+                    </div>
                 </div>
             @endforeach
         </div>
+
     </div>
 </section>
 

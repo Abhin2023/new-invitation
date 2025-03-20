@@ -9,5 +9,5 @@ class Comment extends Model
 {
     use HasFactory;
 
-    protected $fillable = ['name', 'message', 'page_id']; // Changed 'comment' to 'message'
+    protected $fillable = ['name', 'comment', 'page_id']; // Changed 'comment' to 'message'
 }
