@@ -8,24 +8,17 @@
     <title>Wedding Invitation</title>
 
     <!-- SEO Tag -->
-    <meta name="author" content="dewanakl">
-    <meta name="language" content="english">
-    <meta name="robots" content="index, follow, max-image-preview:large">
-    <meta name="googlebot" content="index, follow, max-image-preview:large">
-    <meta name="title" content="Wedding Invitation">
-    <meta name="description" content="Wedding Invitation">
-    <meta name="keywords" content="undangan, wedding, undangan digital, undangan online, wedding invitation, template undangan, template undangan pernikahan, undangan pernikahan, template undangan online, wedding invitation github, template website, template website undangan pernikahan">
-    <meta property="og:title" content="Wedding Invitation">
-    <meta property="og:description" content="Wedding Invitation">
-    <meta property="og:keywords" content="undangan, wedding, undangan digital, undangan online, wedding invitation, template undangan, template undangan pernikahan, undangan pernikahan, template undangan online, wedding invitation github, template website, template website undangan pernikahan">
-    <meta property="og:image" content="https://weddinginvitation.cards/assets/Joel-Jinu.jpeg">
-    <meta property="og:image:secure_url" content="https://weddinginvitation.cards/assets/Joel-Jinu.jpeg">
-    <meta property="og:image:type" content="image/png">
-    <meta property="og:image:alt" content="Wedding Invitation">
-    <meta property="og:type" content="website">
-    <meta property="og:locale" content="id_ID">
-    <meta property="og:url" content="https://weddinginvitation.cards/">
-    <meta property="og:site_name" content="Wedding Invitation">
+    <meta property="og:title" content="Abhin & Dr.Prasobha Wedding">
+    <meta property="og:description" content="A joyous celebration of love as Abhin & Dr. Prasobha begin their new journey together!">
+    <meta property="og:image" content="https://res.cloudinary.com/dba0896zj/image/upload/v1742450565/bg_ijmtax.jpg">
+    <meta property="og:url" content="https://7902-2409-40f3-112b-7dea-e5b9-3396-691d-c494.ngrok-free.app/abhin">
+    <meta property="og:type" content="Wedding Invitation">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Abhin & Dr.Prasobha Wedding">
+    <meta name="twitter:description" content="A joyous celebration of love as Abhin & Dr. Prasobha begin their new journey together!">
+    <meta name="twitter:image" content="https://res.cloudinary.com/dba0896zj/image/upload/v1742450565/bg_ijmtax.jpg">
+
 
     <!-- Appearance -->
     <meta name="mobile-web-app-capable" content="yes">
@@ -125,7 +118,7 @@
                 <h1 class="font-esthetic my-4" style="font-size: 3rem;">Abhin &amp; Dr.Prasobha</h1>
                 <p class="mb-0" style="font-size: 1.5rem;">Saturday, 3 May 2025</p>
 
-                <a class="btn btn-outline-light btn-sm shadow rounded-pill px-3 my-2" target="_blank" href="https://calendar.google.com/calendar/r/eventedit?text=Joel%20%26%20Jinu%20Wedding%20Ceremony&dates=20240824T040000Z/20240824T090000Z&details=Join%20us%20to%20celebrate%20our%20special%20day&location=Mount%20Carmel%20Forane%20Church">
+                <a class="btn btn-outline-light btn-sm shadow rounded-pill px-3 my-2" target="_blank" href="http://www.google.com/calendar/event?action=TEMPLATE&dates=20250503T043000Z%2F20250503T053000Z&text=Abhin%20%26%20Dr.Prasobha%20Wedding&location=https%3A%2F%2Fgoo.gl%2Fmaps%2FEKayfWrMTXJLTsya8&details=A%20joyous%20celebration%20of%20love%20as%20Abhin%20and%20Dr.%20Prasobha%20begin%20their%20new%20journey%20together!%20%E2%9D%A4%EF%B8%8F">
                     <i class="fa-solid fa-calendar-check me-2"></i>Save The Date
                 </a>
 
@@ -148,7 +141,7 @@
         <section class="dark-section bg-black" id="mempelai">
 
             <div class="text-center">
-                <h1 class="font-arabic py-4 px-2" style="font-size: 2rem">Togather with our families</h1>
+                <h1 class="font-arabic py-4 px-2" style="font-size: 2rem">To gather with our families</h1>
 
                 <!-- Love animation -->
                 <div class="position-relative">

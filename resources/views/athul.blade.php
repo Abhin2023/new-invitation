@@ -125,7 +125,7 @@
                 <h1 class="font-esthetic my-4" style="font-size: 3rem;">Athuljith &amp; Harsha Das</h1>
                 <p class="mb-0" style="font-size: 1.5rem;">Sunday, 4 May 2025</p>
 
-                <a class="btn btn-outline-light btn-sm shadow rounded-pill px-3 my-2" target="_blank" href="https://calendar.google.com/calendar/r/eventedit?text=Joel%20%26%20Jinu%20Wedding%20Ceremony&dates=20240824T040000Z/20240824T090000Z&details=Join%20us%20to%20celebrate%20our%20special%20day&location=Mount%20Carmel%20Forane%20Church">
+                <a class="btn btn-outline-light btn-sm shadow rounded-pill px-3 my-2" target="_blank" href="http://www.google.com/calendar/event?action=TEMPLATE&dates=20250504T043000Z%2F20250504T053000Z&text=Athul%20%26%20Harsha%20Wedding&location=https%3A%2F%2Fmaps.app.goo.gl%2FdSh587zok3mZv4dHA&details=A%20joyous%20celebration%20of%20love%20as%20Athul%20%26%20Harsha%20begin%20their%20new%20journey%20together!%20%E2%9D%A4%EF%B8%8F">
                     <i class="fa-solid fa-calendar-check me-2"></i>Save The Date
                 </a>
 
