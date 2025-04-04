@@ -1,25 +1,25 @@
 <section class="m-0 px-0 pb-0 pt-3" id="ucapan">
     <div class="container">
         <div class="card-body border rounded-4 shadow p-3">
-            <h1 class="font-esthetic text-center mb-3" style="font-size: 3rem;">Greetings & Prayers</h1>
+            <h1 class="font-esthetic text-center mb-3" style="font-size: 3rem;">Greetings</h1>
 
             <div id="success-message-{{ $page_id }}" class="alert alert-success d-none">
                 Comment submitted successfully!
             </div>
 
             <div class="mb-3">
-                <label for="form-name-{{ $page_id }}" class="form-label">Nama</label>
-                <input type="text" class="form-control shadow-sm" id="form-name-{{ $page_id }}" placeholder="Isikan Nama Anda">
+                <label for="form-name-{{ $page_id }}" class="form-label">Name</label>
+                <input type="text" class="form-control shadow-sm" id="form-name-{{ $page_id }}" placeholder="Type your Name Here...">
             </div>
 
             <div class="mb-3">
-                <label for="form-comment-{{ $page_id }}" class="form-label">Ucapan & Doa</label>
-                <textarea class="form-control shadow-sm" id="form-comment-{{ $page_id }}" rows="4" placeholder="Tulis Ucapan dan Doa"></textarea>
+                <label for="form-comment-{{ $page_id }}" class="form-label">Wishes</label>
+                <textarea class="form-control shadow-sm" id="form-comment-{{ $page_id }}" rows="4" placeholder="Type you wishes here..."></textarea>
             </div>
 
             <div class="d-grid">
                 <button class="btn btn-primary btn-sm rounded-3 shadow m-1" onclick="comment.send('{{ $page_id }}')">
-                    <i class="fa-solid fa-paper-plane me-1"></i> Send
+                    <i class="fa-solid fa-paper-plane me-1"></i> Submit
                 </button>
             </div>
         </div>

@@ -155,10 +155,11 @@
                     </div>
                 </div>
 
-                <h1 class="font-esthetic py-4 px-2" style="font-size: 2rem">May God's peace be upon you</h1>
+                <h1 class="font-esthetic py-4 px-2" style="font-size: 2rem">we’re thrilled to invite you to a celebration of love, laughter, and happily ever after.</h1>
 
                 <p class="pb-3 px-3">
-                    We joyfully invite you to celebrate our wedding as we exchange vows and begin our new life together:
+                Join us as we say “I do” and begin the next chapter of our adventure—
+                a day filled with unforgettable moments, dancing, and memories to last a lifetime.:
                 </p>
 
                 <!-- Love animation -->
@@ -221,7 +222,7 @@
                 </div>
 
             </div>
-        </section>
+        
 
         <!-- Wave Separator -->
         <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 1440 320" class="color-theme-black">
@@ -386,6 +387,7 @@
                     </div>
                 </div>
             </div>
+            </section>
         </section>
 
         <!-- Tanggal -->
@@ -398,7 +400,7 @@
                     <div class="border rounded-pill shadow py-2 px-4 mx-2 mb-4">
 
                         <!-- Ganti waktunya pada data-waktu (sesuai format tersebut) -->
-                        <div class="row justify-content-center" data-time="2024-08-24 00:00:00" id="count-down-2">
+                        <div class="row justify-content-center" data-time="2025-05-03 10:00:00" id="count-down-2">
                             <div class="col-3 p-1">
                                 <h2 class="d-inline m-0 p-0 day" id="day-2">0</h2><small class="ms-1 me-0 my-0 p-0 d-inline">Days</small>
                             </div>
@@ -415,7 +417,7 @@
                     </div>
 
                     <p style="font-size: 0.9rem;" class="mt-4 py-2">
-                        By seeking God's grace and blessings, we joyfully announce the following events that will mark the beginning of our journey together.<br>We invite you to join us in celebrating our union at:
+                    Two souls, one journey, bound by love and blessed by the divine. As we step into this sacred bond<br>we seek your blessings and presence in our joyous celebration..
                     </p>
 
                     <!-- Love animation -->
@@ -427,7 +429,7 @@
                         </div>
                     </div>
 
-                    <div class="overflow-x-hidden">
+                    <!-- <div class="overflow-x-hidden">
                         <div class="py-2" data-aos="fade-right" data-aos-duration="1500">
                             <h1 class="font-esthetic" style="font-size: 2rem;">Mount Carmel Forane Church</h1>
                             <p>10.00 AM - Morning</p>
@@ -437,16 +439,16 @@
                             <h1 class="font-esthetic" style="font-size: 2rem;">Reception</h1>
                             <p>01.00 PM - Noon</p>
                         </div>
-                    </div>
+                    </div> -->
 
-                    <div class="py-2" data-aos="fade-up" data-aos-duration="1500">
+                    <!-- <div class="py-2" data-aos="fade-up" data-aos-duration="1500">
                         <a href="https://maps.app.goo.gl/S4LPxRqRdSiC38476" target="_blank" class="btn btn-outline-light btn-sm rounded-pill shadow-sm mb-2 px-3">
                             <i class="fa-solid fa-map-location-dot me-2"></i>View Google Maps
                         </a>
                         <p class="mb-0 mt-1 mx-1 pb-4" style="font-size: 0.9rem;">
                             Mount Carmel Forane Church, Sarjapura Road, near Railway Gate, Carmelaram, Bengaluru, Karnataka 560035
                         </p>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </section>
@@ -461,7 +463,7 @@
         </div>
 
         <!-- Galeri Foto -->
-        <section class="dark-section bg-black" id="galeri">
+        <!-- <section class="dark-section bg-black" id="galeri">
 
             <div class="container pb-5 pt-4">
                 <div class="card-body border rounded-5 shadow p-3">
@@ -529,12 +531,12 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
         <!-- Wave Separator -->
-        <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 1440 320" class="color-theme-black">
+        <!-- <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 1440 320" class="color-theme-black">
             <path fill="currentColor" fill-opacity="1" d="M0,96L30,106.7C60,117,120,139,180,154.7C240,171,300,181,360,186.7C420,192,480,192,540,181.3C600,171,660,149,720,154.7C780,160,840,192,900,208C960,224,1020,224,1080,208C1140,192,1200,160,1260,138.7C1320,117,1380,107,1410,101.3L1440,96L1440,0L1410,0C1380,0,1320,0,1260,0C1200,0,1140,0,1080,0C1020,0,960,0,900,0C840,0,780,0,720,0C660,0,600,0,540,0C480,0,420,0,360,0C300,0,240,0,180,0C120,0,60,0,30,0L0,0Z"></path>
-        </svg>
+        </svg> -->
 
         <!-- Love Gift -->
     <!--    <div class="container">-->
