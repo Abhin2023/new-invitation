@@ -9,12 +9,12 @@
 
     <!-- SEO Tag -->
     <meta property="og:title" content="Abhin & Dr.Prasobha Wedding">
-    <meta property="og:description" content="Joyous celebration of the love story of abhin and Prasobha.Join us on date and location">
+    <meta property="og:description" content="Abhin ❤️ Prasobha — a love story worth celebrating! Join us for the beginning of forever on o3-05-2025">
     <meta property="og:image" content="https://res.cloudinary.com/dba0896zj/image/upload/v1742452489/WhatsApp_Image_2025-03-20_at_12.02.52_PM_w3vpms.jpg">
     <meta property="og:image:type" content="image/jpeg">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
-    <meta property="og:url" content="https://7902-2409-40f3-112b-7dea-e5b9-3396-691d-c494.ngrok-free.app/abhin">
+    <meta property="og:url" content="https://f282-2409-40f3-10c2-63ca-5979-c01e-3d45-a4e0.ngrok-free.app/abhin">
     <meta property="og:type" content="Wedding Invitation">
 
     <meta name="twitter:card" content="summary_large_image">
@@ -159,7 +159,6 @@
 
                 <p class="pb-3 px-3">
                 Join us as we say “I do” and begin the next chapter of our adventure—
-                a day filled with unforgettable moments, dancing, and memories to last a lifetime.:
                 </p>
 
                 <!-- Love animation -->
@@ -175,7 +174,7 @@
 
                     <div data-aos="fade-right" data-aos-duration="2000">
                         <div class="img-crop border border-3 border-light shadow my-4 mx-auto">
-                            <img src="./assets/images/cowo.png" alt="cowo" onclick="util.modal(this)">
+                            <img src="./assets/images/abhin.jpg" alt="cowo" onclick="util.modal(this)">
                         </div>
                         <h1 class="font-esthetic" style="font-size: 3rem;">Abhin</h1>
                         <p class="mt-3 mb-0" style="font-size: 1.25rem;">s/o</p>
@@ -204,7 +203,7 @@
 
                     <div data-aos="fade-left" data-aos-duration="2000">
                         <div class="img-crop border border-3 border-light shadow my-4 mx-auto">
-                            <img src="./assets/images/cewe.png" alt="cewe" onclick="util.modal(this)">
+                            <img src="./assets/images/prasobha.jpg" alt="cewe" onclick="util.modal(this)">
                         </div>
                         <h1 class="font-esthetic" style="font-size: 3rem;">Dr.prasobha</h1>
                         <p class="mt-3 mb-0" style="font-size: 1.25rem;">d/o</p>
@@ -309,7 +308,7 @@
                         </div>
                     </div>
                     <div class="py-2" data-aos="fade-up" data-aos-duration="1500">
-                        <a href="https://www.google.com/maps/dir//87XG%2BQ7C,+Thalanji,+Kerala+679331/@11.3494179,76.1932496,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3ba622d20068c993:0x86192ca32db790c6!2m2!1d76.2755833!2d11.3494267?entry=ttu" target="_blank" class="btn btn-outline-light btn-sm rounded-pill shadow-sm mb-2 px-3">
+                        <a href="https://maps.app.goo.gl/A3jfvXpTcxzmxszn9?g_st=ac" target="_blank" class="btn btn-outline-light btn-sm rounded-pill shadow-sm mb-2 px-3">
                             <i class="fa-solid fa-map-location-dot me-2"></i>View Google Maps
                         </a>
                         <p class="mb-0 mt-1 mx-1 pb-4" style="font-size: 0.9rem;">
@@ -335,13 +334,13 @@
 
                         <div class="carousel-inner rounded-4">
                             <div class="carousel-item active">
-                                <img src="./assets/images/sample-2.jpg" alt="gambar 1" class="d-block w-100" onclick="util.modal(this)">
+                                <img src="./assets/images/2.jpg" alt="gambar 1" class="d-block w-100" onclick="util.modal(this)">
                             </div>
                             <div class="carousel-item">
-                                <img src="./assets/images/sample-3.jpg" alt="gambar 2" class="d-block w-100" onclick="util.modal(this)">
+                                <img src="./assets/images/3.jpg" alt="gambar 2" class="d-block w-100" onclick="util.modal(this)">
                             </div>
                             <div class="carousel-item">
-                                <img src="./assets/images/sample-4.jpg" alt="gambar 3" class="d-block w-100" onclick="util.modal(this)">
+                                <img src="./assets/images/4.jpg" alt="gambar 3" class="d-block w-100" onclick="util.modal(this)">
                             </div>
                         </div>
 
@@ -365,13 +364,13 @@
 
                         <div class="carousel-inner rounded-4">
                             <div class="carousel-item active">
-                                <img src="./assets/images/sample-5.jpg" alt="gambar 4" class="d-block w-100" onclick="util.modal(this)">
+                                <img src="./assets/images/2.jpg" alt="gambar 4" class="d-block w-100" onclick="util.modal(this)">
                             </div>
                             <div class="carousel-item">
-                                <img src="./assets/images/sample-6.jpg" alt="gambar 5" class="d-block w-100" onclick="util.modal(this)">
+                                <img src="./assets/images/3.jpg" alt="gambar 5" class="d-block w-100" onclick="util.modal(this)">
                             </div>
                             <div class="carousel-item">
-                                <img src="./assets/images/sample-7.jpg" alt="gambar 6" class="d-block w-100" onclick="util.modal(this)">
+                                <img src="./assets/images/1.jpg" alt="gambar 6" class="d-block w-100" onclick="util.modal(this)">
                             </div>
                         </div>
 
@@ -595,7 +594,7 @@
     <footer class="bg-black">
         <div class="container">
             <div class="text-center">
-
+<!-- 
                 <p style="font-size: 0.9rem;" class="pt-2 pb-1 px-2" data-aos="fade-up" data-aos-duration="1500">
                     Your presence at our wedding meant the world to us and made our celebration truly special. Thank you for joining us in marking the beginning of our new journey together.
                 </p>
@@ -603,7 +602,7 @@
                 <h1 class="font-esthetic" data-aos="fade-up" data-aos-duration="2000">Thanks be to God for his indescribable gift!</h1>
                 <h1 class="font-arabic pt-4 px-2" data-aos="fade-up" data-aos-duration="2000" style="font-size: 2rem;">2 Corinthians 9:14-15</h1>
 
-                <hr class="mt-3 mb-2">
+                <hr class="mt-3 mb-2"> -->
 
                 <!--<div class="row align-items-center justify-content-between flex-column flex-sm-row">-->
                 <!--    <div class="col-auto">-->
