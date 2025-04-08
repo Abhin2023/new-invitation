@@ -117,7 +117,7 @@
                     </div>
                 </div>
 
-                <h1 class="font-esthetic my-4" style="font-size: 3rem;">Athuljith &amp; Harsha Das</h1>
+                <h1 class="font-esthetic my-4" style="font-size: 3rem;">Harsha Das &amp; Athuljith</h1>
                 <p class="mb-0" style="font-size: 1.5rem;">Sunday, 4 May 2025</p>
 
                 <a class="btn btn-outline-light btn-sm shadow rounded-pill px-3 my-2" target="_blank" href="http://www.google.com/calendar/event?action=TEMPLATE&dates=20250504T043000Z%2F20250504T053000Z&text=Athul%20%26%20Harsha%20Wedding&location=https%3A%2F%2Fmaps.app.goo.gl%2FdSh587zok3mZv4dHA&details=A%20joyous%20celebration%20of%20love%20as%20Athul%20%26%20Harsha%20begin%20their%20new%20journey%20together!%20%E2%9D%A4%EF%B8%8F">
@@ -171,13 +171,13 @@
 
                 <div class="overflow-x-hidden">
 
-                    <div data-aos="fade-right" data-aos-duration="2000">
+                <div data-aos="fade-left" data-aos-duration="2000">
                         <div class="img-crop border border-3 border-light shadow my-4 mx-auto">
-                            <img src="./assets/images/athul/cowo.jpg" alt="cowo" onclick="util.modal(this)">
+                            <img src="./assets/images/athul/cewe.jpg" alt="cewe" onclick="util.modal(this)">
                         </div>
-                        <h1 class="font-esthetic" style="font-size: 3rem;">Athuljith</h1>
-                        <p class="mt-3 mb-0" style="font-size: 1.25rem;">s/o</p>
-                        <p class="mb-0">Manoharan &amp; Sajitha</p>
+                        <h1 class="font-esthetic" style="font-size: 3rem;">Harsha Das</h1>
+                        <p class="mt-3 mb-0" style="font-size: 1.25rem;">d/o</p>
+                        <p class="mb-0">Haridasan &amp; Shabna</p>
                     </div>
 
                     <!-- Love animation -->
@@ -200,13 +200,13 @@
                         </div>
                     </div>
 
-                    <div data-aos="fade-left" data-aos-duration="2000">
+                    <div data-aos="fade-right" data-aos-duration="2000">
                         <div class="img-crop border border-3 border-light shadow my-4 mx-auto">
-                            <img src="./assets/images/athul/cewe.jpg" alt="cewe" onclick="util.modal(this)">
+                            <img src="./assets/images/athul/cowo.jpg" alt="cowo" onclick="util.modal(this)">
                         </div>
-                        <h1 class="font-esthetic" style="font-size: 3rem;">Harsha Das</h1>
-                        <p class="mt-3 mb-0" style="font-size: 1.25rem;">d/o</p>
-                        <p class="mb-0">Haridasan &amp; Shabna</p>
+                        <h1 class="font-esthetic" style="font-size: 3rem;">Athuljith</h1>
+                        <p class="mt-3 mb-0" style="font-size: 1.25rem;">s/o</p>
+                        <p class="mb-0">Manoharan &amp; Sajitha</p>
                     </div>
                 </div>
 
@@ -302,8 +302,9 @@
                         </div>
 
                         <div class="py-2" data-aos="fade-left" data-aos-duration="1500">
-                            <h1 class="font-esthetic" style="font-size: 2rem;">Reception</h1>
-                            <p>03.00 PM - Noon</p>
+                            <h1 class="font-esthetic" style="font-size: 2rem;">Reception @ Kadamkollil</h1>
+                            <h2> On 03-05-2025</h2>
+                            <p>02.00 PM - Noon</p>
                         </div>
                     </div>
                     <div class="py-2" data-aos="fade-up" data-aos-duration="1500">
@@ -311,7 +312,7 @@
                             <i class="fa-solid fa-map-location-dot me-2"></i>View Google Maps
                         </a>
                         <p class="mb-0 mt-1 mx-1 pb-4" style="font-size: 0.9rem;">
-                           Thattarkandy house
+                           Kadamkollil house
                         </p>
                     </div>
                 </div>
@@ -578,7 +579,7 @@
 
 <!-- Comments -->
 <section>
-        @include('components.comment-box', ['page_id' => 'athul', 'comments' => $comments])
+        @include('components.comment-box', ['page_id' => 'harsha', 'comments' => $comments])
 
 </section>
 
@@ -629,7 +630,7 @@
                     <img src="./assets/images/athul/bg.jpeg" alt="background">
                 </div>
 
-                <h1 class="font-esthetic my-4" style="font-size: 2.5rem;">Athuljith&amp; Harsha Das</h1>
+                <h1 class="font-esthetic my-4" style="font-size: 2.5rem;">Harsha Das&amp; Athuljith</h1>
                 <div id="guest-name" data-message="Kepada Yth Bapak/Ibu/Saudara/i"></div>
 
                 <button type="button" class="btn btn-light shadow rounded-4 mt-4" onclick="util.open(this)">

@@ -8,19 +8,16 @@
     <title>Wedding Invitation</title>
 
     <!-- SEO Tag -->
-    <meta property="og:title" content="Athul & Harsha Wedding">
-    <meta property="og:description" content="Joyous celebration of the love story of Athul & Harsha.Join us on date and location">
-    <meta property="og:image" content="https://res.cloudinary.com/dba0896zj/image/upload/v1742452820/bg_uvsy8o.jpg">
-    <meta property="og:image:type" content="image/jpeg">
-    <meta property="og:image:width" content="1200">
-    <meta property="og:image:height" content="630">
-    <meta property="og:url" content="https://7902-2409-40f3-112b-7dea-e5b9-3396-691d-c494.ngrok-free.app/athul">
-    <meta property="og:type" content="Wedding Invitation">
+    <meta property="og:title" content="Dr.Prasobha & Abhin Wedding">
+<meta property="og:description" content="Abhin ❤️ Prasobha — a love story worth celebrating! Join us for the beginning of forever on 03-05-2025">
+<meta property="og:image" content="https://res.cloudinary.com/dba0896zj/image/upload/v1742452489/WhatsApp_Image_2025-03-20_at_12.02.52_PM_w3vpms.jpg">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://f282-2409-40f3-10c2-63ca-5979-c01e-3d45-a4e0.ngrok-free.app/prasobha"> <!-- Replace with your actual hosted domain -->
 
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Athul & Harsha Wedding">
-    <meta name="twitter:description" content="Joyous celebration of the love story of Athul & Harsha.Join us on date and location">
-    <meta name="twitter:image" content="https://res.cloudinary.com/dba0896zj/image/upload/v1742452820/bg_uvsy8o.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Dr.Prasobha & Abhin Wedding">
+<meta name="twitter:description" content="Joyous celebration of the love story of Abhin and Prasobha. Join us on the date and location.">
+<meta name="twitter:image" content="https://res.cloudinary.com/dba0896zj/image/upload/v1742452489/WhatsApp_Image_2025-03-20_at_12.02.52_PM_w3vpms.jpg">
 
     <!-- Appearance -->
     <meta name="mobile-web-app-capable" content="yes">
@@ -113,14 +110,14 @@
 
                 <div class="py-4">
                     <div class="img-crop border border-3 border-light shadow mx-auto">
-                        <img src="./assets/images/athul/bg.jpeg" alt="bg" onclick="util.modal(this)">
+                        <img src="./assets/images/bg.jpeg" alt="bg" onclick="util.modal(this)">
                     </div>
                 </div>
 
-                <h1 class="font-esthetic my-4" style="font-size: 3rem;">Athuljith &amp; Harsha Das</h1>
-                <p class="mb-0" style="font-size: 1.5rem;">Sunday, 4 May 2025</p>
+                <h1 class="font-esthetic my-4" style="font-size: 3rem;">Dr.Prasobha &amp; Abhin</h1>
+                <p class="mb-0" style="font-size: 1.5rem;">Saturday, 3 May 2025</p>
 
-                <a class="btn btn-outline-light btn-sm shadow rounded-pill px-3 my-2" target="_blank" href="http://www.google.com/calendar/event?action=TEMPLATE&dates=20250504T043000Z%2F20250504T053000Z&text=Athul%20%26%20Harsha%20Wedding&location=https%3A%2F%2Fmaps.app.goo.gl%2FdSh587zok3mZv4dHA&details=A%20joyous%20celebration%20of%20love%20as%20Athul%20%26%20Harsha%20begin%20their%20new%20journey%20together!%20%E2%9D%A4%EF%B8%8F">
+                <a class="btn btn-outline-light btn-sm shadow rounded-pill px-3 my-2" target="_blank" href="http://www.google.com/calendar/event?action=TEMPLATE&dates=20250503T043000Z%2F20250503T053000Z&text=Abhin%20%26%20Dr.Prasobha%20Wedding&location=https%3A%2F%2Fgoo.gl%2Fmaps%2FEKayfWrMTXJLTsya8&details=A%20joyous%20celebration%20of%20love%20as%20Abhin%20and%20Dr.%20Prasobha%20begin%20their%20new%20journey%20together!%20%E2%9D%A4%EF%B8%8F">
                     <i class="fa-solid fa-calendar-check me-2"></i>Save The Date
                 </a>
 
@@ -143,7 +140,7 @@
         <section class="dark-section bg-black" id="mempelai">
 
             <div class="text-center">
-                <h1 class="font-arabic py-4 px-2" style="font-size: 2rem">Togather with our families</h1>
+                <h1 class="font-arabic py-4 px-2" style="font-size: 2rem">To gather with our families</h1>
 
                 <!-- Love animation -->
                 <div class="position-relative">
@@ -157,9 +154,8 @@
                 <h1 class="font-esthetic py-4 px-2" style="font-size: 2rem">we’re thrilled to invite you to a celebration of love, laughter, and happily ever after.</h1>
 
                 <p class="pb-3 px-3">
-                Join us as we say “I do” and begin the next chapter of our adventure—
+                Join us as we say “I do” and begin the next chapter of our adventure—:
                 </p>
-
                 <!-- Love animation -->
                 <div class="position-relative">
                     <div class="position-absolute" style="top: 0%; left: 10%;">
@@ -170,14 +166,13 @@
                 </div>
 
                 <div class="overflow-x-hidden">
-
-                    <div data-aos="fade-right" data-aos-duration="2000">
+                <div data-aos="fade-left" data-aos-duration="2000">
                         <div class="img-crop border border-3 border-light shadow my-4 mx-auto">
-                            <img src="./assets/images/athul/cowo.jpg" alt="cowo" onclick="util.modal(this)">
+                            <img src="./assets/images/prasobha.jpg" alt="cewe" onclick="util.modal(this)">
                         </div>
-                        <h1 class="font-esthetic" style="font-size: 3rem;">Athuljith</h1>
-                        <p class="mt-3 mb-0" style="font-size: 1.25rem;">s/o</p>
-                        <p class="mb-0">Manoharan &amp; Sajitha</p>
+                        <h1 class="font-esthetic" style="font-size: 3rem;">Dr.prasobha</h1>
+                        <p class="mt-3 mb-0" style="font-size: 1.25rem;">d/o</p>
+                        <p class="mb-0">Bhaskaran &amp; Prema Kumari</p>
                     </div>
 
                     <!-- Love animation -->
@@ -200,13 +195,13 @@
                         </div>
                     </div>
 
-                    <div data-aos="fade-left" data-aos-duration="2000">
+                    <div data-aos="fade-right" data-aos-duration="2000">
                         <div class="img-crop border border-3 border-light shadow my-4 mx-auto">
-                            <img src="./assets/images/athul/cewe.jpg" alt="cewe" onclick="util.modal(this)">
+                            <img src="./assets/images/abhin.jpg" alt="cowo" onclick="util.modal(this)">
                         </div>
-                        <h1 class="font-esthetic" style="font-size: 3rem;">Harsha Das</h1>
-                        <p class="mt-3 mb-0" style="font-size: 1.25rem;">d/o</p>
-                        <p class="mb-0">Haridasan &amp; Shabna</p>
+                        <h1 class="font-esthetic" style="font-size: 3rem;">Abhin</h1>
+                        <p class="mt-3 mb-0" style="font-size: 1.25rem;">s/o</p>
+                        <p class="mb-0">Manoharan &amp; Sajitha</p>
                     </div>
                 </div>
 
@@ -220,7 +215,7 @@
                 </div>
 
             </div>
-        </section>
+        
 
         <!-- Wave Separator -->
         <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 1440 320" class="color-theme-black">
@@ -266,7 +261,7 @@
                     <div class="border rounded-pill shadow py-2 px-4 mx-2 mb-4">
 
                         <!-- Ganti waktunya pada data-waktu (sesuai format tersebut) -->
-                        <div class="row justify-content-center" data-time="2025-05-04 10:00:00" id="count-down-1">
+                        <div class="row justify-content-center" data-time="2025-05-03 10:00:00" id="count-down-1">
                             <div class="col-3 p-1">
                                 <h2 class="d-inline m-0 p-0" id="day">0</h2><small class="ms-1 me-0 my-0 p-0 d-inline">Days</small>
                             </div>
@@ -297,22 +292,22 @@
 
                     <div class="overflow-x-hidden">
                         <div class="py-2" data-aos="fade-right" data-aos-duration="1500">
-                            <h1 class="font-esthetic" style="font-size: 2rem;">Kottur Sree Vishnu Temple</h1>
+                            <h1 class="font-esthetic" style="font-size: 2rem;">Sree kurumba bhagavathi temple Ayloor</h1>
                             <p>10.00 AM - Morning</p>
                         </div>
-
+<!-- 
                         <div class="py-2" data-aos="fade-left" data-aos-duration="1500">
                             <h1 class="font-esthetic" style="font-size: 2rem;">Reception</h1>
                             <p>03.00 PM - Noon</p>
-                        </div>
+                        </div> -->
                     </div>
                     <div class="py-2" data-aos="fade-up" data-aos-duration="1500">
-                        <a href="https://www.google.com/maps/dir//87XG%2BQ7C,+Thalanji,+Kerala+679331/@11.3494179,76.1932496,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3ba622d20068c993:0x86192ca32db790c6!2m2!1d76.2755833!2d11.3494267?entry=ttu" target="_blank" class="btn btn-outline-light btn-sm rounded-pill shadow-sm mb-2 px-3">
+                        <a href="https://goo.gl/maps/AEbCX78afwsT2FZv9" target="_blank" class="btn btn-outline-light btn-sm rounded-pill shadow-sm mb-2 px-3">
                             <i class="fa-solid fa-map-location-dot me-2"></i>View Google Maps
                         </a>
-                        <p class="mb-0 mt-1 mx-1 pb-4" style="font-size: 0.9rem;">
+                        <!-- <p class="mb-0 mt-1 mx-1 pb-4" style="font-size: 0.9rem;">
                            Thattarkandy house
-                        </p>
+                        </p> -->
                     </div>
                 </div>
             </div>
@@ -333,13 +328,13 @@
 
                         <div class="carousel-inner rounded-4">
                             <div class="carousel-item active">
-                                <img src="./assets/images/athul/5.jpg" alt="gambar 1" class="d-block w-100" onclick="util.modal(this)">
+                                <img src="./assets/images/2.jpg" alt="gambar 1" class="d-block w-100" onclick="util.modal(this)">
                             </div>
                             <div class="carousel-item">
-                                <img src="./assets/images/athul/1.jpg" alt="gambar 2" class="d-block w-100" onclick="util.modal(this)">
+                                <img src="./assets/images/3.jpg" alt="gambar 2" class="d-block w-100" onclick="util.modal(this)">
                             </div>
                             <div class="carousel-item">
-                                <img src="./assets/images/athul/2.jpg" alt="gambar 3" class="d-block w-100" onclick="util.modal(this)">
+                                <img src="./assets/images/1.jpg" alt="gambar 3" class="d-block w-100" onclick="util.modal(this)">
                             </div>
                         </div>
 
@@ -363,13 +358,13 @@
 
                         <div class="carousel-inner rounded-4">
                             <div class="carousel-item active">
-                                <img src="./assets/images/athul/1.jpg" alt="gambar 4" class="d-block w-100" onclick="util.modal(this)">
+                                <img src="./assets/images/2.jpg" alt="gambar 4" class="d-block w-100" onclick="util.modal(this)">
                             </div>
                             <div class="carousel-item">
-                                <img src="./assets/images/athul/3.jpg" alt="gambar 5" class="d-block w-100" onclick="util.modal(this)">
+                                <img src="./assets/images/3.jpg" alt="gambar 5" class="d-block w-100" onclick="util.modal(this)">
                             </div>
                             <div class="carousel-item">
-                                <img src="./assets/images/athul/4.jpg" alt="gambar 6" class="d-block w-100" onclick="util.modal(this)">
+                                <img src="./assets/images/4.jpg" alt="gambar 6" class="d-block w-100" onclick="util.modal(this)">
                             </div>
                         </div>
 
@@ -385,6 +380,7 @@
                     </div>
                 </div>
             </div>
+            </section>
         </section>
 
         <!-- Tanggal -->
@@ -397,7 +393,7 @@
                     <div class="border rounded-pill shadow py-2 px-4 mx-2 mb-4">
 
                         <!-- Ganti waktunya pada data-waktu (sesuai format tersebut) -->
-                        <div class="row justify-content-center" data-time="2025-05-04 10:00:00" id="count-down-2">
+                        <div class="row justify-content-center" data-time="2025-05-03 10:00:00" id="count-down-2">
                             <div class="col-3 p-1">
                                 <h2 class="d-inline m-0 p-0 day" id="day-2">0</h2><small class="ms-1 me-0 my-0 p-0 d-inline">Days</small>
                             </div>
@@ -413,9 +409,9 @@
                         </div>
                     </div>
 
-                    <p style="font-size: 0.9rem;" class="mt-4 py-2">Two souls, one journey, bound by love and blessed by the divine. As we step into this sacred bond
-                    we seek your blessings and presence in our joyous celebration..
-                 </p>
+                    <p style="font-size: 0.9rem;" class="mt-4 py-2">
+                    Two souls, one journey, bound by love and blessed by the divine. As we step into this sacred bond<br>we seek your blessings and presence in our joyous celebration..
+                    </p>
 
                     <!-- Love animation -->
                     <div class="position-relative">
@@ -436,19 +432,19 @@
                             <h1 class="font-esthetic" style="font-size: 2rem;">Reception</h1>
                             <p>01.00 PM - Noon</p>
                         </div>
-                    </div>
+                    </div> -->
 
-                    <div class="py-2" data-aos="fade-up" data-aos-duration="1500">
+                    <!-- <div class="py-2" data-aos="fade-up" data-aos-duration="1500">
                         <a href="https://maps.app.goo.gl/S4LPxRqRdSiC38476" target="_blank" class="btn btn-outline-light btn-sm rounded-pill shadow-sm mb-2 px-3">
                             <i class="fa-solid fa-map-location-dot me-2"></i>View Google Maps
                         </a>
                         <p class="mb-0 mt-1 mx-1 pb-4" style="font-size: 0.9rem;">
                             Mount Carmel Forane Church, Sarjapura Road, near Railway Gate, Carmelaram, Bengaluru, Karnataka 560035
                         </p>
-                    </div>
+                    </div> -->
                 </div>
             </div>
-        </section> -->
+        </section>
 
         <!-- Love animation -->
         <div class="position-relative">
@@ -476,13 +472,13 @@
 
                         <div class="carousel-inner rounded-4">
                             <div class="carousel-item active">
-                                <img src="./assets/images/athul/5.jpg" alt="gambar 1" class="d-block w-100" onclick="util.modal(this)">
+                                <img src="./assets/images/sample-9.jpg" alt="gambar 1" class="d-block w-100" onclick="util.modal(this)">
                             </div>
                             <div class="carousel-item">
-                                <img src="./assets/images/athul/1.jpg" alt="gambar 2" class="d-block w-100" onclick="util.modal(this)">
+                                <img src="./assets/images/sample-5.jpg" alt="gambar 2" class="d-block w-100" onclick="util.modal(this)">
                             </div>
                             <div class="carousel-item">
-                                <img src="./assets/images/athul/4.jpg" alt="gambar 3" class="d-block w-100" onclick="util.modal(this)">
+                                <img src="./assets/images/sample-8.jpg" alt="gambar 3" class="d-block w-100" onclick="util.modal(this)">
                             </div>
                         </div>
 
@@ -506,13 +502,13 @@
 
                         <div class="carousel-inner rounded-4">
                             <div class="carousel-item active">
-                                <img src="./assets/images/athul/2.jpg" alt="gambar 1" class="d-block w-100" onclick="util.modal(this)">
+                                <img src="./assets/images/sample-10.jpg" alt="gambar 1" class="d-block w-100" onclick="util.modal(this)">
                             </div>
                             <div class="carousel-item">
-                                <img src="./assets/images/athul/5.jpg" alt="gambar 2" class="d-block w-100" onclick="util.modal(this)">
+                                <img src="./assets/images/sample-2.jpg" alt="gambar 2" class="d-block w-100" onclick="util.modal(this)">
                             </div>
                             <div class="carousel-item">
-                                <img src="./assets/images/athul/3.jpg" alt="gambar 3" class="d-block w-100" onclick="util.modal(this)">
+                                <img src="./assets/images/sample-7.jpg" alt="gambar 3" class="d-block w-100" onclick="util.modal(this)">
                             </div>
                         </div>
 
@@ -531,9 +527,9 @@
         </section> -->
 
         <!-- Wave Separator -->
-        <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 1440 320" class="color-theme-black">
+        <!-- <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 1440 320" class="color-theme-black">
             <path fill="currentColor" fill-opacity="1" d="M0,96L30,106.7C60,117,120,139,180,154.7C240,171,300,181,360,186.7C420,192,480,192,540,181.3C600,171,660,149,720,154.7C780,160,840,192,900,208C960,224,1020,224,1080,208C1140,192,1200,160,1260,138.7C1320,117,1380,107,1410,101.3L1440,96L1440,0L1410,0C1380,0,1320,0,1260,0C1200,0,1140,0,1080,0C1020,0,960,0,900,0C840,0,780,0,720,0C660,0,600,0,540,0C480,0,420,0,360,0C300,0,240,0,180,0C120,0,60,0,30,0L0,0Z"></path>
-        </svg>
+        </svg> -->
 
         <!-- Love Gift -->
     <!--    <div class="container">-->
@@ -578,14 +574,14 @@
 
 <!-- Comments -->
 <section>
-        @include('components.comment-box', ['page_id' => 'athul', 'comments' => $comments])
+        @include('components.comment-box', ['page_id' => 'prasobha', 'comments' => $comments])
 
 </section>
 
         <!-- Wave Separator -->
-    <!--    <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 1440 320" class="color-theme-black">-->
-    <!--        <path fill="currentColor" fill-opacity="1" d="M0,224L34.3,234.7C68.6,245,137,267,206,266.7C274.3,267,343,245,411,234.7C480,224,549,224,617,213.3C685.7,203,754,181,823,197.3C891.4,213,960,267,1029,266.7C1097.1,267,1166,213,1234,192C1302.9,171,1371,181,1406,186.7L1440,192L1440,320L1405.7,320C1371.4,320,1303,320,1234,320C1165.7,320,1097,320,1029,320C960,320,891,320,823,320C754.3,320,686,320,617,320C548.6,320,480,320,411,320C342.9,320,274,320,206,320C137.1,320,69,320,34,320L0,320Z"></path>-->
-    <!--    </svg>-->
+       <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 1440 320" class="color-theme-black">
+           <path fill="currentColor" fill-opacity="1" d="M0,224L34.3,234.7C68.6,245,137,267,206,266.7C274.3,267,343,245,411,234.7C480,224,549,224,617,213.3C685.7,203,754,181,823,197.3C891.4,213,960,267,1029,266.7C1097.1,267,1166,213,1234,192C1302.9,171,1371,181,1406,186.7L1440,192L1440,320L1405.7,320C1371.4,320,1303,320,1234,320C1165.7,320,1097,320,1029,320C960,320,891,320,823,320C754.3,320,686,320,617,320C548.6,320,480,320,411,320C342.9,320,274,320,206,320C137.1,320,69,320,34,320L0,320Z"></path>
+      </svg>
     <!--</main>-->
 
     <!-- Footer Undangan -->
@@ -626,10 +622,10 @@
                 <h1 class="font-esthetic mb-4" style="font-size: 2.5rem;">Wedding Invitation</h1>
 
                 <div class="img-crop border border-3 border-light shadow mb-4 mx-auto">
-                    <img src="./assets/images/athul/bg.jpeg" alt="background">
+                    <img src="./assets/images/bg.jpeg" alt="background">
                 </div>
 
-                <h1 class="font-esthetic my-4" style="font-size: 2.5rem;">Athuljith&amp; Harsha Das</h1>
+                <h1 class="font-esthetic my-4" style="font-size: 2.5rem;">Dr.Prasobha &amp; Abhin</h1>
                 <div id="guest-name" data-message="Kepada Yth Bapak/Ibu/Saudara/i"></div>
 
                 <button type="button" class="btn btn-light shadow rounded-4 mt-4" onclick="util.open(this)">
@@ -671,7 +667,7 @@
             <div class="modal-content rounded-4">
                 <div class="modal-body p-0">
                     <div class="d-flex justify-content-center align-items-center" style="height: 100%;">
-                        <img src="./assets/images/athul/bg.jpeg" class="w-100" alt="image" id="show-modal-image">
+                        <img src="./assets/images/bg.jpeg" class="w-100" alt="image" id="show-modal-image">
                     </div>
                 </div>
             </div>
