@@ -9,15 +9,21 @@
 
     <!-- SEO Tag -->
     <meta property="og:title" content="Dr.Prasobha & Abhin Wedding">
-<meta property="og:description" content="Abhin ❤️ Prasobha — a love story worth celebrating! Join us for the beginning of forever on 03-05-2025">
+<meta property="og:description" content="Prasobha ❤️ Abhin — a love story worth celebrating! Join us for the beginning of forever on 03-05-2025">
 <meta property="og:image" content="https://res.cloudinary.com/dba0896zj/image/upload/v1742452489/WhatsApp_Image_2025-03-20_at_12.02.52_PM_w3vpms.jpg">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://f282-2409-40f3-10c2-63ca-5979-c01e-3d45-a4e0.ngrok-free.app/prasobha"> <!-- Replace with your actual hosted domain -->
+<meta property="og:url" content="https://weddinginvitation.cards/prasobha"> <!-- Replace with your actual hosted domain -->
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Dr.Prasobha & Abhin Wedding">
-<meta name="twitter:description" content="Joyous celebration of the love story of Abhin and Prasobha. Join us on the date and location.">
+<meta name="twitter:description" content="Prasobha ❤️ Abhin — a love story worth celebrating! Join us for the beginning of forever on 03-05-2025">
 <meta name="twitter:image" content="https://res.cloudinary.com/dba0896zj/image/upload/v1742452489/WhatsApp_Image_2025-03-20_at_12.02.52_PM_w3vpms.jpg">
+<meta property="twitter:image:type" content="image/jpeg">
+    <meta property="twitter:image:width" content="1200">
+    <meta property="twitter:image:height" content="630">
+    <meta property="twitter:url" content="https://weddinginvitation.cards/prasobha">
+    <meta property="twitter:type" content="Wedding Invitation">
+
 
     <!-- Appearance -->
     <meta name="mobile-web-app-capable" content="yes">

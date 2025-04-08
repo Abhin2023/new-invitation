@@ -14,13 +14,18 @@
     <meta property="og:image:type" content="image/jpeg">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
-    <meta property="og:url" content="https://f282-2409-40f3-10c2-63ca-5979-c01e-3d45-a4e0.ngrok-free.app/abhin">
+    <meta property="og:url" content="https://weddinginvitation.cards/abhin">
     <meta property="og:type" content="Wedding Invitation">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Abhin & Dr.Prasobha Wedding">
-    <meta name="twitter:description" content="Joyous celebration of the love story of abhin and Prasobha.Join us on date and location">
+    <meta name="twitter:description" content="Abhin ❤️ Prasobha — a love story worth celebrating! Join us for the beginning of forever on o3-05-2025">
     <meta name="twitter:image" content="https://res.cloudinary.com/dba0896zj/image/upload/v1742452489/WhatsApp_Image_2025-03-20_at_12.02.52_PM_w3vpms.jpg">
+    <meta property="twitter:image:type" content="image/jpeg">
+    <meta property="twitter:image:width" content="1200">
+    <meta property="twitter:image:height" content="630">
+    <meta property="twitter:url" content="https://weddinginvitation.cards/abhin">
+    <meta property="twitter:type" content="Wedding Invitation">
 
 
     <!-- Appearance -->
