@@ -160,7 +160,7 @@
                     </div>
                 </div>
 
-                <h1 class="font-esthetic py-4 px-2" style="font-size: 2rem">we’re thrilled to invite you to a celebration of love, laughter, and happily ever after.</h1>
+                <h1 class="font-esthetic py-4 px-2" style="font-size: 2rem">We’re thrilled to invite you to a celebration of love, laughter, and happily ever after.</h1>
 
                 <p class="pb-3 px-3">
                 Join us as we say “I do” and begin the next chapter of our adventure—
