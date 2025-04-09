@@ -14,13 +14,18 @@
     <meta property="og:image:type" content="image/jpeg">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
-    <meta property="og:url" content="https://f282-2409-40f3-10c2-63ca-5979-c01e-3d45-a4e0.ngrok-free.app/abhin">
+    <meta property="og:url" content="https://weddinginvitation.cards/abhin">
     <meta property="og:type" content="Wedding Invitation">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Abhin & Dr.Prasobha Wedding">
-    <meta name="twitter:description" content="Joyous celebration of the love story of abhin and Prasobha.Join us on date and location">
+    <meta name="twitter:description" content="Abhin ❤️ Prasobha — a love story worth celebrating! Join us for the beginning of forever on o3-05-2025">
     <meta name="twitter:image" content="https://res.cloudinary.com/dba0896zj/image/upload/v1742452489/WhatsApp_Image_2025-03-20_at_12.02.52_PM_w3vpms.jpg">
+    <meta property="twitter:image:type" content="image/jpeg">
+    <meta property="twitter:image:width" content="1200">
+    <meta property="twitter:image:height" content="630">
+    <meta property="twitter:url" content="https://weddinginvitation.cards/abhin">
+    <meta property="twitter:type" content="Wedding Invitation">
 
 
     <!-- Appearance -->
@@ -155,7 +160,7 @@
                     </div>
                 </div>
 
-                <h1 class="font-esthetic py-4 px-2" style="font-size: 2rem">we’re thrilled to invite you to a celebration of love, laughter, and happily ever after.</h1>
+                <h1 class="font-esthetic py-4 px-2" style="font-size: 2rem">We’re thrilled to invite you to a celebration of love, laughter, and happily ever after.</h1>
 
                 <p class="pb-3 px-3">
                 Join us as we say “I do” and begin the next chapter of our adventure—
@@ -205,7 +210,7 @@
                         <div class="img-crop border border-3 border-light shadow my-4 mx-auto">
                             <img src="./assets/images/prasobha.jpg" alt="cewe" onclick="util.modal(this)">
                         </div>
-                        <h1 class="font-esthetic" style="font-size: 3rem;">Dr.prasobha</h1>
+                        <h1 class="font-esthetic" style="font-size: 3rem;">Dr.Prasobha</h1>
                         <p class="mt-3 mb-0" style="font-size: 1.25rem;">d/o</p>
                         <p class="mb-0">Bhaskaran &amp; Prema Kumari</p>
                     </div>
@@ -323,24 +328,28 @@
             <div class="container pb-5 pt-4">
                 <div class="card-body border rounded-5 shadow p-3">
 
-                    <h1 class="font-esthetic text-center py-3" data-aos="fade-down" data-aos-duration="1500" style="font-size: 2rem;">Gallery</h1>
+                    <h1 class="font-esthetic text-center py-3" data-aos="fade-down" data-aos-duration="800" style="font-size: 2rem;">Gallery</h1>
 
-                    <div id="carousel-image-one" data-aos="fade-up" data-aos-duration="1500" class="carousel slide" data-bs-ride="carousel">
+                    <div id="carousel-image-one" data-aos="fade-up" data-aos-duration="800" class="carousel slide" data-bs-ride="carousel">
                         <div class="carousel-indicators">
                             <button type="button" data-bs-target="#carousel-image-one" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
                             <button type="button" data-bs-target="#carousel-image-one" data-bs-slide-to="1" aria-label="Slide 2"></button>
                             <button type="button" data-bs-target="#carousel-image-one" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                            <button type="button" data-bs-target="#carousel-image-one" data-bs-slide-to="3" aria-label="Slide 3"></button>
                         </div>
 
                         <div class="carousel-inner rounded-4">
                             <div class="carousel-item active">
-                                <img src="./assets/images/2.jpg" alt="gambar 1" class="d-block w-100" onclick="util.modal(this)">
+                                <img src="./assets/images/1.jpg" alt="gambar 1" class="d-block w-100" onclick="util.modal(this)">
                             </div>
                             <div class="carousel-item">
-                                <img src="./assets/images/3.jpg" alt="gambar 2" class="d-block w-100" onclick="util.modal(this)">
+                                <img src="./assets/images/2.jpg" alt="gambar 2" class="d-block w-100" onclick="util.modal(this)">
                             </div>
                             <div class="carousel-item">
                                 <img src="./assets/images/4.jpg" alt="gambar 3" class="d-block w-100" onclick="util.modal(this)">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="./assets/images/3.jpg" alt="gambar 4" class="d-block w-100" onclick="util.modal(this)">
                             </div>
                         </div>
 
@@ -355,7 +364,7 @@
                         </button>
                     </div>
 
-                    <div id="carousel-image-two" data-aos="fade-up" data-aos-duration="1500" class="carousel slide mt-4" data-bs-ride="carousel">
+                    <div id="carousel-image-two" data-aos="fade-up" data-aos-duration="800" class="carousel slide mt-4" data-bs-ride="carousel">
                         <div class="carousel-indicators">
                             <button type="button" data-bs-target="#carousel-image-two" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
                             <button type="button" data-bs-target="#carousel-image-two" data-bs-slide-to="1" aria-label="Slide 2"></button>
@@ -364,13 +373,13 @@
 
                         <div class="carousel-inner rounded-4">
                             <div class="carousel-item active">
-                                <img src="./assets/images/2.jpg" alt="gambar 4" class="d-block w-100" onclick="util.modal(this)">
+                                <img src="./assets/images/DSC03618.JPG" alt="gambar 4" class="d-block w-100" onclick="util.modal(this)">
                             </div>
                             <div class="carousel-item">
-                                <img src="./assets/images/3.jpg" alt="gambar 5" class="d-block w-100" onclick="util.modal(this)">
+                                <img src="./assets/images/DSC03633.JPG" alt="gambar 5" class="d-block w-100" onclick="util.modal(this)">
                             </div>
                             <div class="carousel-item">
-                                <img src="./assets/images/1.jpg" alt="gambar 6" class="d-block w-100" onclick="util.modal(this)">
+                                <img src="./assets/images/DSC03660.JPG" alt="gambar 6" class="d-block w-100" onclick="util.modal(this)">
                             </div>
                         </div>
 

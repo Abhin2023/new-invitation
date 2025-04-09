@@ -8,19 +8,25 @@
     <title>Wedding Invitation</title>
 
     <!-- SEO Tag -->
-    <meta property="og:title" content="Athul & Harsha Wedding">
-    <meta property="og:description" content="Joyous celebration of the love story of Athul & Harsha.Join us on date and location">
+    <meta property="og:title" content="Harsha & Athul Wedding">
+    <meta property="og:description" content="Harsha ❤️ Athul — a love story worth celebrating! Join us for the beginning of forever on 04-05-2025">
     <meta property="og:image" content="https://res.cloudinary.com/dba0896zj/image/upload/v1742452820/bg_uvsy8o.jpg">
     <meta property="og:image:type" content="image/jpeg">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
-    <meta property="og:url" content="https://7902-2409-40f3-112b-7dea-e5b9-3396-691d-c494.ngrok-free.app/athul">
+    <meta property="og:url" content="https://weddinginvitation.cards/harsha">
     <meta property="og:type" content="Wedding Invitation">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Athul & Harsha Wedding">
-    <meta name="twitter:description" content="Joyous celebration of the love story of Athul & Harsha.Join us on date and location">
+    <meta name="twitter:title" content="Harsha & Athul Wedding">
+    <meta name="twitter:description" content="Harsha ❤️ Athul — a love story worth celebrating! Join us for the beginning of forever on 04-05-2025">
     <meta name="twitter:image" content="https://res.cloudinary.com/dba0896zj/image/upload/v1742452820/bg_uvsy8o.jpg">
+    <meta property="twitter:image:type" content="image/jpeg">
+    <meta property="twitter:image:width" content="1200">
+    <meta property="twitter:image:height" content="630">
+    <meta property="twitter:url" content="https://weddinginvitation.cards/harsha">
+    <meta property="twitter:type" content="Wedding Invitation">
+
 
     <!-- Appearance -->
     <meta name="mobile-web-app-capable" content="yes">
@@ -154,7 +160,7 @@
                     </div>
                 </div>
 
-                <h1 class="font-esthetic py-4 px-2" style="font-size: 2rem">we’re thrilled to invite you to a celebration of love, laughter, and happily ever after.</h1>
+                <h1 class="font-esthetic py-4 px-2" style="font-size: 2rem">We’re thrilled to invite you to a celebration of love, laughter, and happily ever after.</h1>
 
                 <p class="pb-3 px-3">
                 Join us as we say “I do” and begin the next chapter of our adventure—
