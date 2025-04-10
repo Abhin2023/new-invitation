@@ -3,9 +3,6 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\CommentController;
 
-Route::get('/', function () {
-    return view('index');
-});
 
 Route::get('/{page_id}', [CommentController::class, 'showComments'])->name('page.show');
 
